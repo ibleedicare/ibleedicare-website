@@ -1,0 +1,24 @@
+body {
+    background: #0c0d10;
+    font-family: "Lucida Console", monospace;
+    color: #d1d1d1;
+    margin: 0 auto;
+    padding: 1em 0 1em 0;
+}
+a { 
+    color: #ACD2ED; 
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline;
+}
+pre {
+    line-height: 1.0;
+    font-size: 16px;
+}
+body > h1, h2 {
+    display: none;
+}
+.bio {
+    display: none;
+}
